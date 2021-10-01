@@ -7,7 +7,7 @@ export default function Home () {
       <Head>
         <title>NextJS Course | HomePage</title>
       </Head>
-      <h2>HomePage</h2>
+      <h2>Welcome to HomePage</h2>
       <h3>Welcome {process.env.myName}</h3>
       <p>Welcome to NextJS</p>
     </Main>
